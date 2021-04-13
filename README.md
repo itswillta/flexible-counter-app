@@ -2,6 +2,8 @@
 
 This project demonstrates switching between implementations of a store (Vuex, Redux, Valtio, MobX) and UI libraries/frameworks (Vue, React and Svelte).
 
+Please refer to the article for more details about the architecture: [A different approach to frontend architecture](https://dev.to/quochuytlbk/a-different-approach-to-frontend-architecture-38d4).
+
 ## Instructions
 
 ### Run the app
